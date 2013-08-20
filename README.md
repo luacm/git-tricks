@@ -4,8 +4,8 @@ Here's a better version of a ```.gitconfig```. Just save this text as ```~/.gitc
 
 ```
 [user]
-  name = 'Greyson Parrelli'
-  email = greyson.parrelli@live.com
+  name = 'Your Name'
+  email = your@email.com
 
 [color]
   ui = auto
