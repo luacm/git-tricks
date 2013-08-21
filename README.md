@@ -1,6 +1,8 @@
 # Git Config
 
-Here's a better version of a ```.gitconfig```. Just save this text as ```~/.gitconfig```. 
+Here's a better version of a ```.gitconfig```. Just save this text as ```~/.gitconfig```.
+
+*Note: Be sure to put your name and email where it says!*
 
 ```
 [user]
@@ -43,3 +45,4 @@ Here's a better version of a ```.gitconfig```. Just save this text as ```~/.gitc
   # Show files ignored by git:
   ign = ls-files -o -i --exclude-standard
 ```
+Sources: [Cheat Sheets](http://cheat.errtheblog.com/s/git), [Coder Journal](http://coderjournal.com/2011/04/gitconfig/)
