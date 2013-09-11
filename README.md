@@ -22,9 +22,9 @@ Here's a better version of a ```.gitconfig```. Just save this text as ```~/.gitc
   new = green bold
   whitespace = red reverse
 [color "status"]
-  added = yellow
-  changed = green
-  untracked = cyan
+  added = green
+  changed = yellow
+  untracked = red
 
 [core]
   whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
